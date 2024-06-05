@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-[https://img.shields.io/badge/LinkedIn-blue](https://www.linkedin.com/in/ajhollid)
+<div style="text-align: center">
+<img src="./img/hello_world.webp" height="200px" width="">
+<div>
+<a href="https://www.linkedin.com/in/ajhollid">
+    <img src="https://img.shields.io/badge/LinkedIn-blue"/>
+</a>
+![](https://komarev.com/ghpvc/?username=ajhollid&color=yellow)
+</div>
+</div>
+
 <!--
 **ajhollid/ajhollid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
