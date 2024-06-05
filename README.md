@@ -40,14 +40,14 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
 
 ### Frameworks
 
-</div>
+<div>
     <img src="./img/devicons/react-original.svg" width=30 height=30 alt="React">
     <img src="./img/devicons/gatsby-original.svg" width=30 height=30 alt="Gatsby">
     <img src="./img/devicons/angularjs-original.svg" width=30 height=30 alt="AngularJS">
     <img src="./img/devicons/nodejs-original.svg" width=30 height=30 alt="NodeJS">
     <img src="./img/devicons/express-original.svg" width=30 height=30 alt="Express">
     <img src="./img/devicons/spring-original.svg" width=30 height=30 alt="Spring">
-<div>
+</div>
 
 ### Data
 
