@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="text-align: center">
+<div align="center">
 <img src="./img/hello_world.webp" height="200px" width="">
 <div>
 <a href="https://www.linkedin.com/in/ajhollid">
