@@ -14,9 +14,26 @@
 
 I'm a software developer from Vancouver, Canada. I love to work on web applications and I'm most at home on the backend, but I'm ready to jump in on the full stack.
 
-### Languages
+You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-ajhollid-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-### Tools
+Or
+
+[Shoot me an email](mailto:ajhollid@gmail.com)
+
+---
+
+#### Languages
+
+<div>
+    <img src="./img/devicons/javascript-original.svg" width=30 height=30 alt="JavaScript">
+    <img src="/img/devicons/typescript-original.svg" width=30 height=30 alt="TypeScript">
+    <img src="./img/devicons/java-original.svg" width=30 height=30 alt="Java">
+    <img src="./img/devicons/go-original.svg" width=30 height=30 alt="Golang">
+    <img src="./img/devicons/html5-original.svg" width=30 height=30 alt="HTML 5">
+    <img src="./img/devicons/css3-original.svg" width=30 height=30 alt="CSS 3">
+</div>
+
+#### Tools
 
 <div>
     <img src="./img/devicons/git-original.svg" width=30 height=30 alt="Git">
@@ -29,7 +46,7 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/nginx-original.svg" width=30 height=30 alt="Nginx">
 </div>
 
-### Frameworks
+#### Frameworks
 
 <div>
     <img src="./img/devicons/react-original.svg" width=30 height=30 alt="React">
@@ -40,10 +57,16 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/spring-original.svg" width=30 height=30 alt="Spring">
 </div>
 
-### Data
+#### Data
 
 <div>
     <img src="./img/devicons/postgresql-original.svg" width=30 height=30 alt="Postgresql">
     <img src="./img/devicons/mysql-original.svg" width=30 height=30 alt="Mysql">
     <img src="./img/devicons/mongodb-original.svg" width=30 height=30 alt="MongoDB">
 </div>
+
+---
+
+### Interesting(?) Facts
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajhollid)](https://git.io/streak-stats)
