@@ -14,7 +14,7 @@
 
 I'm a software developer from Vancouver, Canada. I love to work on web applications and I'm most at home on the backend, but I'm ready to jump in on the full stack.
 
-<table>
+<table style="width:100%">
 <tr>
 <td>
 
