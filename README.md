@@ -14,6 +14,10 @@
 
 I'm a software developer from Vancouver, Canada. I love to work on web applications and I'm most at home on the backend, but I'm ready to jump in on the full stack.
 
+<table>
+<tr>
+<td>
+
 ### Languages
 
 <div>
@@ -37,6 +41,8 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/grafana-original.svg" width=30 height=30 alt="Grafana">
     <img src="./img/devicons/nginx-original.svg" width=30 height=30 alt="Nginx">
 </div>
+</td>
+<td>
 
 ### Frameworks
 
@@ -56,3 +62,6 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/mysql-original.svg" width=30 height=30 alt="Mysql">
     <img src="./img/devicons/mongodb-original.svg" width=30 height=30 alt="MongoDB">
 </div>
+
+</td>
+</tr>
