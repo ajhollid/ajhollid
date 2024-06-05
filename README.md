@@ -72,4 +72,9 @@ Or
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajhollid)](https://git.io/streak-stats)
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
