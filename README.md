@@ -70,3 +70,6 @@ Or
 ### Interesting(?) Facts
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajhollid)](https://git.io/streak-stats)
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
