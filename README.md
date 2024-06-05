@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ajhollid">
     <img src="https://img.shields.io/badge/LinkedIn-blue"/>
 </a>
-![](https://komarev.com/ghpvc/?username=ajhollid&color=yellow)
+<img src="https://komarev.com/ghpvc/?username=ajhollid&color=yellow" alt="View Counter">
 </div>
 </div>
 
