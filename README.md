@@ -14,20 +14,7 @@
 
 I'm a software developer from Vancouver, Canada. I love to work on web applications and I'm most at home on the backend, but I'm ready to jump in on the full stack.
 
-<table style="width:100%">
-<tr>
-<td>
-
 ### Languages
-
-<div>
-    <img src="./img/devicons/javascript-original.svg" width=30 height=30 alt="JavaScript">
-    <img src="/img/devicons/typescript-original.svg" width=30 height=30 alt="TypeScript">
-    <img src="./img/devicons/java-original.svg" width=30 height=30 alt="Java">
-    <img src="./img/devicons/go-original.svg" width=30 height=30 alt="Golang">
-    <img src="./img/devicons/html5-original.svg" width=30 height=30 alt="HTML 5">
-    <img src="./img/devicons/css3-original.svg" width=30 height=30 alt="CSS 3">
-</div>
 
 ### Tools
 
@@ -41,8 +28,6 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/grafana-original.svg" width=30 height=30 alt="Grafana">
     <img src="./img/devicons/nginx-original.svg" width=30 height=30 alt="Nginx">
 </div>
-</td>
-<td>
 
 ### Frameworks
 
@@ -62,6 +47,3 @@ I'm a software developer from Vancouver, Canada. I love to work on web applicati
     <img src="./img/devicons/mysql-original.svg" width=30 height=30 alt="Mysql">
     <img src="./img/devicons/mongodb-original.svg" width=30 height=30 alt="MongoDB">
 </div>
-
-</td>
-</tr>
