@@ -14,7 +14,7 @@
 
 I'm a software developer from Vancouver, Canada. I love to work on web applications and I'm most at home on the backend, but I'm ready to jump in on the full stack.
 
-You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-ajhollid-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-ajhollid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajhollid)
 
 Or
 
