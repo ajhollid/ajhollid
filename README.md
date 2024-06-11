@@ -74,14 +74,14 @@ Or
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 09 June 2024
+From: 05 June 2024 - To: 10 June 2024
 
-Total Time: 5 hrs 45 mins
+Total Time: 6 hrs 11 mins
 
-JavaScript   4 hrs 5 mins    █████████████████░░░░░░░░   68.18 %
-Markdown     58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-YAML         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JavaScript   4 hrs 31 mins   █████████████████▓░░░░░░░   70.30 %
+Markdown     58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
