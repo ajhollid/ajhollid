@@ -74,20 +74,20 @@ Or
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 02 July 2024
+From: 05 June 2024 - To: 03 July 2024
 
-Total Time: 64 hrs 44 mins
+Total Time: 72 hrs 16 mins
 
-JavaScript    42 hrs 10 mins  ████████████████▒░░░░░░░░   64.89 %
-TypeScript    10 hrs 2 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Markdown      4 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Bash          2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-YAML          1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Docker        1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JSON          1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-CSS           36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Git Config    17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript    44 hrs 38 mins  ███████████████▒░░░░░░░░░   61.53 %
+TypeScript    14 hrs 1 min    ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+Markdown      4 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Bash          2 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+YAML          1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+CSS           1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Docker        1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON          1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Git Config    17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
