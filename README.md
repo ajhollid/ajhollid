@@ -93,14 +93,14 @@ Other         35 mins         ░░░░░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#472](https://github.com/bluewave-labs/bluewave-uptime/pull/472) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-2. 🎉 Merged PR [#6](https://github.com/ajhollid/uptime_webhook_server/pull/6) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-3. 💪 Opened PR [#6](https://github.com/ajhollid/uptime_webhook_server/pull/6) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-4. 🎉 Merged PR [#5](https://github.com/ajhollid/uptime_webhook_server/pull/5) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-5. 💪 Opened PR [#5](https://github.com/ajhollid/uptime_webhook_server/pull/5) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-6. ❌ Closed PR [#4](https://github.com/ajhollid/uptime_webhook_server/pull/4) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-7. 💪 Opened PR [#4](https://github.com/ajhollid/uptime_webhook_server/pull/4) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-8. 🎉 Merged PR [#3](https://github.com/ajhollid/uptime_webhook_server/pull/3) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-9. 💪 Opened PR [#3](https://github.com/ajhollid/uptime_webhook_server/pull/3) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
-10. 🎉 Merged PR [#2](https://github.com/ajhollid/uptime_webhook_server/pull/2) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+1. 🎉 Merged PR [#472](https://github.com/bluewave-labs/bluewave-uptime/pull/472) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+2. 🎉 Merged PR [#470](https://github.com/bluewave-labs/bluewave-uptime/pull/470) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+3. 💪 Opened PR [#472](https://github.com/bluewave-labs/bluewave-uptime/pull/472) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+4. 🎉 Merged PR [#6](https://github.com/ajhollid/uptime_webhook_server/pull/6) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+5. 💪 Opened PR [#6](https://github.com/ajhollid/uptime_webhook_server/pull/6) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+6. 🎉 Merged PR [#5](https://github.com/ajhollid/uptime_webhook_server/pull/5) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+7. 💪 Opened PR [#5](https://github.com/ajhollid/uptime_webhook_server/pull/5) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+8. ❌ Closed PR [#4](https://github.com/ajhollid/uptime_webhook_server/pull/4) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+9. 💪 Opened PR [#4](https://github.com/ajhollid/uptime_webhook_server/pull/4) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
+10. 🎉 Merged PR [#3](https://github.com/ajhollid/uptime_webhook_server/pull/3) in [ajhollid/uptime_webhook_server](https://github.com/ajhollid/uptime_webhook_server)
 <!--END_SECTION:activity-->
