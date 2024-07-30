@@ -93,14 +93,14 @@ Other         35 mins         ░░░░░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#476](https://github.com/bluewave-labs/bluewave-uptime/pull/476) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-2. 🎉 Merged PR [#475](https://github.com/bluewave-labs/bluewave-uptime/pull/475) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-3. 🎉 Merged PR [#478](https://github.com/bluewave-labs/bluewave-uptime/pull/478) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-4. 🎉 Merged PR [#479](https://github.com/bluewave-labs/bluewave-uptime/pull/479) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-5. 🔒 Closed issue [#468](https://github.com/bluewave-labs/bluewave-uptime/issues/468) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-6. 🎉 Merged PR [#2](https://github.com/ajhollid/uptime_webook_test/pull/2) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
-7. 💪 Opened PR [#2](https://github.com/ajhollid/uptime_webook_test/pull/2) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
-8. 🎉 Merged PR [#1](https://github.com/ajhollid/uptime_webook_test/pull/1) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
-9. 💪 Opened PR [#1](https://github.com/ajhollid/uptime_webook_test/pull/1) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
-10. 💪 Opened PR [#479](https://github.com/bluewave-labs/bluewave-uptime/pull/479) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+1. 🎉 Merged PR [#483](https://github.com/bluewave-labs/bluewave-uptime/pull/483) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+2. 🎉 Merged PR [#476](https://github.com/bluewave-labs/bluewave-uptime/pull/476) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+3. 🎉 Merged PR [#475](https://github.com/bluewave-labs/bluewave-uptime/pull/475) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+4. 🎉 Merged PR [#478](https://github.com/bluewave-labs/bluewave-uptime/pull/478) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+5. 🎉 Merged PR [#479](https://github.com/bluewave-labs/bluewave-uptime/pull/479) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+6. 🔒 Closed issue [#468](https://github.com/bluewave-labs/bluewave-uptime/issues/468) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+7. 🎉 Merged PR [#2](https://github.com/ajhollid/uptime_webook_test/pull/2) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
+8. 💪 Opened PR [#2](https://github.com/ajhollid/uptime_webook_test/pull/2) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
+9. 🎉 Merged PR [#1](https://github.com/ajhollid/uptime_webook_test/pull/1) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
+10. 💪 Opened PR [#1](https://github.com/ajhollid/uptime_webook_test/pull/1) in [ajhollid/uptime_webook_test](https://github.com/ajhollid/uptime_webook_test)
 <!--END_SECTION:activity-->
