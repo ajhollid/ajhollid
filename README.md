@@ -93,14 +93,14 @@ Other         36 mins         ░░░░░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#716](https://github.com/bluewave-labs/bluewave-uptime/pull/716) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-2. 🎉 Merged PR [#712](https://github.com/bluewave-labs/bluewave-uptime/pull/712) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-3. 🎉 Merged PR [#715](https://github.com/bluewave-labs/bluewave-uptime/pull/715) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-4. 💪 Opened PR [#715](https://github.com/bluewave-labs/bluewave-uptime/pull/715) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-5. 🗣 Commented on [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706#issuecomment-2307593650) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-6. 🔒 Closed issue [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-7. ❗ Opened issue [#714](https://github.com/bluewave-labs/bluewave-uptime/issues/714) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-8. 🗣 Commented on [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706#issuecomment-2307544014) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-9. 🗣 Commented on [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706#issuecomment-2307540172) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-10. 💪 Opened PR [#713](https://github.com/bluewave-labs/bluewave-uptime/pull/713) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+1. ❌ Closed PR [#636](https://github.com/bluewave-labs/bluewave-uptime/pull/636) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+2. 🔒 Closed issue [#566](https://github.com/bluewave-labs/bluewave-uptime/issues/566) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+3. 🎉 Merged PR [#713](https://github.com/bluewave-labs/bluewave-uptime/pull/713) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+4. 🎉 Merged PR [#716](https://github.com/bluewave-labs/bluewave-uptime/pull/716) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+5. 🎉 Merged PR [#712](https://github.com/bluewave-labs/bluewave-uptime/pull/712) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+6. 🎉 Merged PR [#715](https://github.com/bluewave-labs/bluewave-uptime/pull/715) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+7. 💪 Opened PR [#715](https://github.com/bluewave-labs/bluewave-uptime/pull/715) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+8. 🗣 Commented on [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706#issuecomment-2307593650) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+9. 🔒 Closed issue [#706](https://github.com/bluewave-labs/bluewave-uptime/issues/706) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+10. ❗ Opened issue [#714](https://github.com/bluewave-labs/bluewave-uptime/issues/714) in [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 <!--END_SECTION:activity-->
