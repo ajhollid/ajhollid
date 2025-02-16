@@ -74,17 +74,17 @@ Or
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 13 February 2025
+From: 05 June 2024 - To: 15 February 2025
 
-Total Time: 754 hrs 6 mins
+Total Time: 764 hrs 20 mins
 
-JavaScript                 610 hrs 21 mins ████████████████████░░░░░   80.39 %
-TypeScript                 48 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Bash                       20 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Markdown                   20 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-CSS                        10 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Docker                     7 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other                      5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript                 618 hrs 41 mins ████████████████████░░░░░   80.40 %
+TypeScript                 48 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Bash                       21 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown                   20 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+CSS                        10 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Docker                     8 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other                      5 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
