@@ -74,15 +74,15 @@ Or
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 02 May 2025
+From: 05 June 2024 - To: 03 May 2025
 
-Total Time: 1,053 hrs 8 mins
+Total Time: 1,059 hrs 27 mins
 
-JavaScript                 864 hrs 39 mins ████████████████████▒░░░░   81.55 %
-TypeScript                 48 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Bash                       34 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown                   22 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Docker                     14 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JavaScript                 870 hrs 45 mins ████████████████████▒░░░░   81.64 %
+TypeScript                 48 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Bash                       34 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Markdown                   22 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Docker                     14 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 CSS                        10 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Other                      7 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
