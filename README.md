@@ -91,14 +91,14 @@ Other                      7 hrs 7 mins    ▒░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2196](https://github.com/bluewave-labs/Checkmate/pull/2196) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-2. 🗣 Commented on [#2174](https://github.com/bluewave-labs/Checkmate/issues/2174#issuecomment-2852026044) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-3. 🎉 Merged PR [#2180](https://github.com/bluewave-labs/Checkmate/pull/2180) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-4. 🔒 Closed issue [#2152](https://github.com/bluewave-labs/Checkmate/issues/2152) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-5. 🎉 Merged PR [#2186](https://github.com/bluewave-labs/Checkmate/pull/2186) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-6. 🔒 Closed issue [#2172](https://github.com/bluewave-labs/Checkmate/issues/2172) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-7. 🎉 Merged PR [#2193](https://github.com/bluewave-labs/Checkmate/pull/2193) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-8. 🎉 Merged PR [#2184](https://github.com/bluewave-labs/Checkmate/pull/2184) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-9. 🎉 Merged PR [#2189](https://github.com/bluewave-labs/Checkmate/pull/2189) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-10. 💪 Opened PR [#2189](https://github.com/bluewave-labs/Checkmate/pull/2189) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+1. 💪 Opened PR [#2197](https://github.com/bluewave-labs/Checkmate/pull/2197) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 🗣 Commented on [#2147](https://github.com/bluewave-labs/Checkmate/issues/2147#issuecomment-2852125282) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+3. 🔒 Closed issue [#2147](https://github.com/bluewave-labs/Checkmate/issues/2147) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+4. 🔒 Closed issue [#2032](https://github.com/bluewave-labs/Checkmate/issues/2032) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+5. 🎉 Merged PR [#2192](https://github.com/bluewave-labs/Checkmate/pull/2192) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+6. 🎉 Merged PR [#2196](https://github.com/bluewave-labs/Checkmate/pull/2196) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+7. 🗣 Commented on [#2174](https://github.com/bluewave-labs/Checkmate/issues/2174#issuecomment-2852026044) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+8. 🎉 Merged PR [#2180](https://github.com/bluewave-labs/Checkmate/pull/2180) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+9. 🔒 Closed issue [#2152](https://github.com/bluewave-labs/Checkmate/issues/2152) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+10. 🎉 Merged PR [#2186](https://github.com/bluewave-labs/Checkmate/pull/2186) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 <!--END_SECTION:activity-->
