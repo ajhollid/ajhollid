@@ -91,14 +91,14 @@ Other                      8 hrs 22 mins   ▒░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2566](https://github.com/bluewave-labs/Checkmate/pull/2566) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-2. ❌ Reopened PR [#2559](https://github.com/bluewave-labs/Checkmate/pull/2559) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-3. 💪 Opened PR [#2559](https://github.com/bluewave-labs/Checkmate/pull/2559) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-4. 🎉 Merged PR [#1](https://github.com/ajhollid/super-simple-scheduler/pull/1) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-5. 💪 Opened PR [#1](https://github.com/ajhollid/super-simple-scheduler/pull/1) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-6. 🎉 Merged PR [#2555](https://github.com/bluewave-labs/Checkmate/pull/2555) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-7. 🚀 Published release [v2.2](https://github.com/bluewave-labs/Checkmate/releases/tag/v2.2) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-8. 🎉 Merged PR [#2546](https://github.com/bluewave-labs/Checkmate/pull/2546) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-9. 💪 Opened PR [#2546](https://github.com/bluewave-labs/Checkmate/pull/2546) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-10. 🎉 Merged PR [#2545](https://github.com/bluewave-labs/Checkmate/pull/2545) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+1. 🎉 Merged PR [#2568](https://github.com/bluewave-labs/Checkmate/pull/2568) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 💪 Opened PR [#2568](https://github.com/bluewave-labs/Checkmate/pull/2568) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+3. 💪 Opened PR [#2566](https://github.com/bluewave-labs/Checkmate/pull/2566) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+4. ❌ Reopened PR [#2559](https://github.com/bluewave-labs/Checkmate/pull/2559) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+5. 💪 Opened PR [#2559](https://github.com/bluewave-labs/Checkmate/pull/2559) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+6. 🎉 Merged PR [#1](https://github.com/ajhollid/super-simple-scheduler/pull/1) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+7. 💪 Opened PR [#1](https://github.com/ajhollid/super-simple-scheduler/pull/1) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+8. 🎉 Merged PR [#2555](https://github.com/bluewave-labs/Checkmate/pull/2555) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+9. 🚀 Published release [v2.2](https://github.com/bluewave-labs/Checkmate/releases/tag/v2.2) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+10. 🎉 Merged PR [#2546](https://github.com/bluewave-labs/Checkmate/pull/2546) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 <!--END_SECTION:activity-->
