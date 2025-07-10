@@ -91,14 +91,14 @@ Other                      8 hrs 23 mins   ░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ajhollid/super-simple-scheduler/pull/3) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-2. 💪 Opened PR [#3](https://github.com/ajhollid/super-simple-scheduler/pull/3) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-3. 🎉 Merged PR [#2](https://github.com/ajhollid/super-simple-scheduler/pull/2) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-4. 💪 Opened PR [#2](https://github.com/ajhollid/super-simple-scheduler/pull/2) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-5. 🚀 Published release [V2.3](https://github.com/bluewave-labs/Checkmate/releases/tag/v2.3) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-6. 🎉 Merged PR [#2583](https://github.com/bluewave-labs/Checkmate/pull/2583) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-7. 💪 Opened PR [#2583](https://github.com/bluewave-labs/Checkmate/pull/2583) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-8. 🎉 Merged PR [#2582](https://github.com/bluewave-labs/Checkmate/pull/2582) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-9. 💪 Opened PR [#2582](https://github.com/bluewave-labs/Checkmate/pull/2582) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-10. 🎉 Merged PR [#2581](https://github.com/bluewave-labs/Checkmate/pull/2581) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+1. 🎉 Merged PR [#8](https://github.com/ajhollid/super-simple-scheduler/pull/8) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+2. 💪 Opened PR [#8](https://github.com/ajhollid/super-simple-scheduler/pull/8) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+3. 🎉 Merged PR [#7](https://github.com/ajhollid/super-simple-scheduler/pull/7) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+4. 💪 Opened PR [#7](https://github.com/ajhollid/super-simple-scheduler/pull/7) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+5. 🎉 Merged PR [#6](https://github.com/ajhollid/super-simple-scheduler/pull/6) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+6. 💪 Opened PR [#6](https://github.com/ajhollid/super-simple-scheduler/pull/6) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+7. 🎉 Merged PR [#5](https://github.com/ajhollid/super-simple-scheduler/pull/5) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+8. 💪 Opened PR [#5](https://github.com/ajhollid/super-simple-scheduler/pull/5) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+9. 🎉 Merged PR [#4](https://github.com/ajhollid/super-simple-scheduler/pull/4) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+10. 💪 Opened PR [#4](https://github.com/ajhollid/super-simple-scheduler/pull/4) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
 <!--END_SECTION:activity-->
