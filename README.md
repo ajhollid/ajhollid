@@ -91,14 +91,14 @@ Other                      8 hrs 23 mins   ░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ajhollid/super-simple-scheduler/pull/12) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-2. 💪 Opened PR [#12](https://github.com/ajhollid/super-simple-scheduler/pull/12) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-3. 🎉 Merged PR [#11](https://github.com/ajhollid/super-simple-scheduler/pull/11) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-4. 💪 Opened PR [#11](https://github.com/ajhollid/super-simple-scheduler/pull/11) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-5. 🎉 Merged PR [#10](https://github.com/ajhollid/super-simple-scheduler/pull/10) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-6. 💪 Opened PR [#10](https://github.com/ajhollid/super-simple-scheduler/pull/10) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-7. 🎉 Merged PR [#9](https://github.com/ajhollid/super-simple-scheduler/pull/9) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-8. 💪 Opened PR [#9](https://github.com/ajhollid/super-simple-scheduler/pull/9) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-9. 🎉 Merged PR [#8](https://github.com/ajhollid/super-simple-scheduler/pull/8) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-10. 💪 Opened PR [#8](https://github.com/ajhollid/super-simple-scheduler/pull/8) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+1. 🎉 Merged PR [#14](https://github.com/ajhollid/super-simple-scheduler/pull/14) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+2. 💪 Opened PR [#14](https://github.com/ajhollid/super-simple-scheduler/pull/14) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+3. 🎉 Merged PR [#13](https://github.com/ajhollid/super-simple-scheduler/pull/13) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+4. 💪 Opened PR [#13](https://github.com/ajhollid/super-simple-scheduler/pull/13) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+5. 🎉 Merged PR [#12](https://github.com/ajhollid/super-simple-scheduler/pull/12) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+6. 💪 Opened PR [#12](https://github.com/ajhollid/super-simple-scheduler/pull/12) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+7. 🎉 Merged PR [#11](https://github.com/ajhollid/super-simple-scheduler/pull/11) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+8. 💪 Opened PR [#11](https://github.com/ajhollid/super-simple-scheduler/pull/11) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+9. 🎉 Merged PR [#10](https://github.com/ajhollid/super-simple-scheduler/pull/10) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+10. 💪 Opened PR [#10](https://github.com/ajhollid/super-simple-scheduler/pull/10) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
 <!--END_SECTION:activity-->
