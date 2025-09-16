@@ -91,14 +91,14 @@ Other                      9 hrs 22 mins   ░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ajhollid/v2checkmate/pull/7) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-2. 💪 Opened PR [#7](https://github.com/ajhollid/v2checkmate/pull/7) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-3. 🎉 Merged PR [#6](https://github.com/ajhollid/v2checkmate/pull/6) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-4. 💪 Opened PR [#6](https://github.com/ajhollid/v2checkmate/pull/6) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-5. 🎉 Merged PR [#5](https://github.com/ajhollid/v2checkmate/pull/5) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-6. 💪 Opened PR [#5](https://github.com/ajhollid/v2checkmate/pull/5) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-7. 🔒 Closed issue [#2918](https://github.com/bluewave-labs/Checkmate/issues/2918) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-8. 🎉 Merged PR [#2948](https://github.com/bluewave-labs/Checkmate/pull/2948) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-9. 🎉 Merged PR [#2](https://github.com/ajhollid/v2checkmate/pull/2) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
-10. 💪 Opened PR [#2](https://github.com/ajhollid/v2checkmate/pull/2) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+1. 🔒 Closed issue [#2949](https://github.com/bluewave-labs/Checkmate/issues/2949) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 🎉 Merged PR [#2952](https://github.com/bluewave-labs/Checkmate/pull/2952) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+3. 🎉 Merged PR [#7](https://github.com/ajhollid/v2checkmate/pull/7) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+4. 💪 Opened PR [#7](https://github.com/ajhollid/v2checkmate/pull/7) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+5. 🎉 Merged PR [#6](https://github.com/ajhollid/v2checkmate/pull/6) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+6. 💪 Opened PR [#6](https://github.com/ajhollid/v2checkmate/pull/6) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+7. 🎉 Merged PR [#5](https://github.com/ajhollid/v2checkmate/pull/5) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+8. 💪 Opened PR [#5](https://github.com/ajhollid/v2checkmate/pull/5) in [ajhollid/v2checkmate](https://github.com/ajhollid/v2checkmate)
+9. 🔒 Closed issue [#2918](https://github.com/bluewave-labs/Checkmate/issues/2918) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+10. 🎉 Merged PR [#2948](https://github.com/bluewave-labs/Checkmate/pull/2948) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 <!--END_SECTION:activity-->
