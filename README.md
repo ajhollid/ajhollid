@@ -91,14 +91,14 @@ Other                      10 hrs 16 mins  ░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [bluewave-labs/checkmate-ng-frontend](https://github.com/bluewave-labs/checkmate-ng-frontend)
-2. 💪 Opened PR [#5](undefined) in [bluewave-labs/checkmate-ng-frontend](https://github.com/bluewave-labs/checkmate-ng-frontend)
-3. 💪 Opened PR [#45](undefined) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-4. 💪 Opened PR [#44](undefined) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
-5. 🔒 Closed issue [#3048](https://github.com/bluewave-labs/Checkmate/issues/3048) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-6. 💪 Opened PR [#3052](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-7. 💪 Opened PR [#3046](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-8. 🗣 Commented on [#2899](https://github.com/bluewave-labs/Checkmate/issues/2899#issuecomment-3462693154) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-9. 💪 Opened PR [#3044](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-10. 💪 Opened PR [#43](undefined) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+1. 💪 Opened PR [#1](undefined) in [bluewave-labs/checkmate-ng-backend](https://github.com/bluewave-labs/checkmate-ng-backend)
+2. 💪 Opened PR [#6](undefined) in [bluewave-labs/checkmate-ng-frontend](https://github.com/bluewave-labs/checkmate-ng-frontend)
+3. 💪 Opened PR [#5](undefined) in [bluewave-labs/checkmate-ng-frontend](https://github.com/bluewave-labs/checkmate-ng-frontend)
+4. 💪 Opened PR [#45](undefined) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+5. 💪 Opened PR [#44](undefined) in [ajhollid/super-simple-scheduler](https://github.com/ajhollid/super-simple-scheduler)
+6. 🔒 Closed issue [#3048](https://github.com/bluewave-labs/Checkmate/issues/3048) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+7. 💪 Opened PR [#3052](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+8. 💪 Opened PR [#3046](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+9. 🗣 Commented on [#2899](https://github.com/bluewave-labs/Checkmate/issues/2899#issuecomment-3462693154) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+10. 💪 Opened PR [#3044](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 <!--END_SECTION:activity-->
