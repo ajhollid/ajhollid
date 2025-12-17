@@ -91,11 +91,11 @@ Other                      10 hrs 42 mins  ░░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3079](https://github.com/bluewave-labs/Checkmate/pull/3079#issuecomment-3662861252) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-2. 🗣 Commented on [#3059](https://github.com/bluewave-labs/Checkmate/pull/3059#issuecomment-3617749111) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-3. ❌ Closed PR [#3059](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-4. 🗣 Commented on [#3076](https://github.com/bluewave-labs/Checkmate/pull/3076#issuecomment-3593096226) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-5. 🔒 Closed issue [#2589](https://github.com/bluewave-labs/Checkmate/issues/2589) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+1. 🗣 Commented on [#3079](https://github.com/bluewave-labs/Checkmate/pull/3079#issuecomment-3666845409) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 🗣 Commented on [#3079](https://github.com/bluewave-labs/Checkmate/pull/3079#issuecomment-3662861252) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+3. 🗣 Commented on [#3059](https://github.com/bluewave-labs/Checkmate/pull/3059#issuecomment-3617749111) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+4. ❌ Closed PR [#3059](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+5. 🗣 Commented on [#3076](https://github.com/bluewave-labs/Checkmate/pull/3076#issuecomment-3593096226) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 6. 💪 Opened PR [#3069](undefined) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 7. 🗣 Commented on [#3032](https://github.com/bluewave-labs/Checkmate/issues/3032#issuecomment-3553919063) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 8. 🔒 Closed issue [#2860](https://github.com/bluewave-labs/Checkmate/issues/2860) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
