@@ -91,7 +91,7 @@ Other                      14 hrs 44 mins        ▒░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v3.10.0](https://github.com/bluewave-labs/Checkmate/releases/tag/v3.10.0) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-2. 🔒 Closed issue [#3786](https://github.com/bluewave-labs/Checkmate/issues/3786) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 💪 Opened PR [#3807](https://github.com/bluewave-labs/Checkmate/pull/3807) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 3. 🎉 Merged PR [#3806](https://github.com/bluewave-labs/Checkmate/pull/3806) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 4. 💪 Opened PR [#3806](https://github.com/bluewave-labs/Checkmate/pull/3806) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 5. 🎉 Merged PR [#3801](https://github.com/bluewave-labs/Checkmate/pull/3801) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
