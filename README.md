@@ -74,7 +74,7 @@ Or
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 06 September 2026
+From: 05 June 2024 - To: 07 September 2026
 
 Total Time: 2,010 hrs 43 mins
 
